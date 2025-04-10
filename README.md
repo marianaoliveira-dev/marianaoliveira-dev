@@ -3,7 +3,7 @@
 🎓 Estudante de Matemática no IFRJ | Técnica em Administração  
 💻 Em transição para a área de tecnologia  
 📚 Atualmente aprendendo: **Python, HTML, CSS, JavaScript**  
-🚀 Buscando minha primeira oportunidade como desenvolvedora
+🚀 Buscando minha primeira oportunidade na área da tecnologia
 
 ## 🔧 Tecnologias
 
