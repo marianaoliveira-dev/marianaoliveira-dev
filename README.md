@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Olá! Eu sou a Mariana Santos Oliveira
 
-<!--
-**marianaoliveira-dev/marianaoliveira-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Matemática no IFRJ | Técnica em Administração  
+💻 Em transição para a área de tecnologia  
+📚 Atualmente aprendendo: **Python, HTML, CSS, JavaScript**  
+🚀 Buscando minha primeira oportunidade como desenvolvedora
 
-Here are some ideas to get you started:
+## 🔧 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💡 **HTML • CSS • JavaScript** (básico)
+- 🐍 **Python** (iniciante)
+- 📊 **Excel**
+
+## 💼 Experiência
+
+Trabalhei com:
+- Atendimento ao público
+- Apoio administrativo
+- Auxílio pedagógico em escolas 
+
+## 🌱 Em aprendizado constante
+
+Estou sempre buscando melhorar! Em 2024, comecei minha jornada na programação e quero crescer como desenvolvedora.
+
+📫 **Contato:** mxrx0699@gmail.com
+
